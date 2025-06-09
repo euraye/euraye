@@ -3,11 +3,11 @@
 a 4th-year student and an aspiring Frontend Developer with a passion for building websites, designing interfaces, and creating thoughtful UI/UX experiences. I'm always eager to learn, explore new technologies, and bring ideas to life through clean and user-friendly design.
 
 ## 💻 What I Love Doing
+- 🎨 Making web designs that are clean, creative, and user-friendly  
+- 💻 Coding websites that are responsive and interactive  
+- 🖌️ Creating graphic art and exploring visual styles  
+- 🌱 Continuously learning new tools and technologies
 
-- 🎨 Designing user-friendly interfaces
-- 💻 Coding responsive and interactive web pages
-- 🧠 Solving UI/UX problems creatively
-- 🌱 Continuously learning new web technologies
 
 ## 🌐 Socials:
 
