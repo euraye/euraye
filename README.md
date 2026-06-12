@@ -1,17 +1,19 @@
 # 👋 Hello, I'm Eurie!
 
-a 4th-year student and an aspiring Frontend Developer with a passion for building websites, designing interfaces, and creating thoughtful UI/UX experiences. I'm always eager to learn, explore new technologies, and bring ideas to life through clean and user-friendly design.
+I'm a UI/UX designer and 4th-year Computer Science student who designs digital products that turn complicated workflows into something people actually enjoy using — clean interfaces, clear flows, zero clutter.
+
+I design in Figma *and* build with front-end (HTML, CSS), so I make design decisions developers can actually ship — not mockups that fall apart in handoff.
 
 ## 💻 What I Love Doing
-- 🎨 Making web designs that are clean, creative, and user-friendly  
-- 💻 Coding websites that are responsive and interactive  
-- 🖌️ Creating graphic art and exploring visual styles  
-- 🌱 Continuously learning new tools and technologies
+- 🎨 Design clean, user-friendly web and product interfaces
+- 💻 Build responsive, interactive websites from my own designs
+- 🔍 Run the UX process end to end — research, wireframes, prototypes
+- 🌱 Always learning new tools and technologies
 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/euriemanaig/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:euriemae03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euriemanaig/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:euriemaemanaig@gmail.com)
 
 # 💻 Tech Stack:
 
